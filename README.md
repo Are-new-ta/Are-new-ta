@@ -10,7 +10,7 @@
 https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3-861f-69494e9d5c49.mp4
 
   </details> 
-   (<a href="https://disk.yandex.ru/i/WZx2DcrAxrEzjg">здесь</a> можно скачать и посмотреть моё резюме)
+   (<a href="https://disk.yandex.ru/i/KJOBXKlSQVmI4Q">здесь</a> можно скачать и посмотреть моё резюме)
 </div>
 
 <h2>🧘‍♂ О себе:</h2>
