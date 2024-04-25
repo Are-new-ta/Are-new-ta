@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/108838349/215626451-8365718e-923b-46f3
  8. Проработала авторизованные и неавторизованные состояния, сохраняла данные в профиле;
 <br>
  <br>
- <h2>Примеры работ:</h2>
+ <h2>✨ Примеры работ:</h2>
  <br>
  - <a href="https://github.com/Marketplace-of-telegram-bots-for-retail">Marketplace-of-telegram-bots</a>
   <br>
